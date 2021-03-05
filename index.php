@@ -43,8 +43,8 @@
 
                         <div class="header__links hide-for-mobile">
                             <a href="/">Home</a>
-                            <a href="index.php?section=list">Liste</a>
-                            <a href="index.php?section=form">Form</a>
+                            <a href="#">Liste</a>
+                            <a href="#">Form</a>
                         </div>
                     </nav>
                 </header>
