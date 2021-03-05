@@ -1,0 +1,40 @@
+.breadcrumb{
+    height: 3.125rem;
+    width: 100%;
+    background: $bg;
+    display: block;
+
+    &__links{
+        padding-left: 0.4rem;
+        padding-right: 0.4rem;
+        padding-top: 0.834rem;
+        padding-bottom: 0.834rem;
+        display: inline-block;
+        width: 83%;
+
+        span a{
+            color: $oran;
+        }
+    }
+    &__search{
+        display: inline-block;
+        margin: 12px 10px;
+    }
+    /*&__btd-home{
+        padding: 5px;
+        background-color: #feb984;
+        border-radius: 50px;
+        display: block;
+        width: 2.062rem;
+        a {
+            overflow: hidden;
+            border-radius: 50%;
+            background-color: rgba(17,17,17, 0.8);
+            text-align: center;
+            text-decoration: none;
+            display: block;
+        }
+    }
+    class="icon icon-photo"
+    */
+}
